@@ -1,0 +1,10 @@
+torch==1.11.0
+torchvision==0.12.0
+opencv-python
+pillow==8.0.1
+sklearn
+scikit-image
+streamlit
+click==8.0.4
+onnxruntime
+editdistance
